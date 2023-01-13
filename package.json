@@ -13,7 +13,7 @@
     "tsc:check": "tsc --pretty --noEmit --skipLibCheck"
   },
   "dependencies": {
-    "@apollo/client": "^3.7.3",
+    "@apollo/client": "^3.7.4",
     "@next/font": "13.1.1",
     "@svgr/webpack": "^6.5.1",
     "@types/node": "18.11.18",
